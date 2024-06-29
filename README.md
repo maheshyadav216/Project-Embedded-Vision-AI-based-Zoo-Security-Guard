@@ -1,7 +1,7 @@
 # Project-Embedded-Vision-AI-based-Zoo-Security-Guard
 DIY Project utilizing SEEED Studio Grove Vision AI V2 Module
   
-<img src="/Images/Grove-AI-ThumbYT.png" height="250" >
+<img src="/Images/Grove-AI-ThumbYT.jpg" height="250" >
   
 
 Using embedded Vision AI for detecting reckless bravados trespassing and breaking proximity safety rules in zoos.      
