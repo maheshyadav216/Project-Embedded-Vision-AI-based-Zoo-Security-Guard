@@ -38,7 +38,7 @@ The Grove - Vision AI V2 is a thumb-sized AI vision module equipped with the Wis
 
 📕 **YouTube Video Link**  
 
-▶️ Tutorial - How to Deploy AI Models on Grove Vision AI V2 using SenseCraft Tool - 🔗 https://youtu.be/ 
+▶️ Tutorial - How to Deploy AI Models on Grove Vision AI V2 using SenseCraft Tool - 🔗 https://youtu.be/l07G_tk4Ixk  
 
 -------------------------------------------------------------------------------------------------------
 📒 **Important Links**  
